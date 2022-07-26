@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Capital Domination",
+        "victoryScreenHeader": "Capture all your enemies capitals\nto win!",
+        "milestones": ["Capture all capitals"],
+        "victoryString": "Many important cities have been painted red, but yours have not, and so you emerge victorious!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]
